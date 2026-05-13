@@ -8,10 +8,10 @@ int main()
 	cin >> age;
 	
 	 if (age >= 18) { 
-	 	cout << "你已成年,可以喝酒\n"
+	 	cout << "你已成年,可以喝酒\n";
 	 } 
 	  if (age < 18) {
-	 	cout << "未成年,不可以喝酒\n"
+	 	cout << "未成年,不可以喝酒\n";
 	 }
 	 
 
